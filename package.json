@@ -1,0 +1,33 @@
+{
+  "name": "my-qr-scanner",
+  "version": "1.0.0",
+  "description": "ScanQR: Your Ultimate QR Code Decoder. Seamlessly integrate QR code scanning functionality into your web applications with just a few lines of code. Real-time decoding, robust backend processing, and customizable interface for a seamless user experience.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "example": "node src/example.js"
+  },
+  "keywords": [
+    "QR code",
+    "scanner",
+    "decoder",
+    "image processing",
+    "web application"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "ejs": "^3.1.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gk69-cz/QrReader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gk69-cz/QrReader.git/issues"
+  },
+  "homepage": "https://github.com/gk69-cz/QrReader.git#readme"
+}
